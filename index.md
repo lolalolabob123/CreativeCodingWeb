@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-<h1>Creative Coding</h1>
+<h1>Creative Coding Portfolio</h1>
