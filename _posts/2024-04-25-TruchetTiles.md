@@ -4,5 +4,5 @@ date: 2024-04-25
 ---
 This is my first blog post!
 ---
-["https://editor.p5js.org/lolalolabob/sketches/9y7zIa8Mn"]
+<iframe src="https://editor.p5js.org/lolalolabob/full/9y7zIa8Mn"></iframe>
 ---
