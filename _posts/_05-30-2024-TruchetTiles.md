@@ -1,5 +1,5 @@
 ---
-title: "Truchet Tiles"
+title: _05-30-2024-TruchetTiles
 date: 05-30-2024
 permalink: https://github.com/lolalolabob123/CreativeCodingWeb/blob/main/_posts/_05-30-2024-TruchetTiles.md
 ---
