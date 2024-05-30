@@ -1,4 +1,7 @@
-
+---
+title: "Randomness"
+date: 2024-05-30
+---
   <iframe src="https://editor.p5js.org/lolalolabob/full/6cp0_eydk"></iframe>
   I used random shapes and colours to display how randomness can create something unexpected and unique. This experiment doesn't serve any purpose or have much of a meaning but it helps to display the features of random when using shapes and colours.
   <iframe src="https://editor.p5js.org/lolalolabob/full/MZjdqjRCx"></iframe>
