@@ -1,6 +1,6 @@
 ---
 title: "Truchet Tiles"
-date: 2024-05-30
+date: 05-30-2024
 ---
 For this technique I decided to use truchet tiles. They as a way to display shapes or content in a grid, whilst also alowing the shapes to be rotated in order to create multiple unique designs without having to change much of the code. Furthermore, truchet tiles can have any number of rotations allowing for even more variations.
 <iframe src="https://editor.p5js.org/lolalolabob/full/9y7zIa8Mn"></iframe>
